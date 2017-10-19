@@ -1,1 +1,11 @@
 /* PUT FLUID GRID CODE HERE */
+.abs {
+  width: 30%;
+  float: left;
+
+}
+
+.notabs {
+  width: 60%;
+  float: right;
+}
